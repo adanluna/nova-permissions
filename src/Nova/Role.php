@@ -20,7 +20,7 @@ class Role extends Resource
     /**
      * @var mixed
      */
-    public static $displayInNavigation = false;
+    public static $displayInNavigation = true;
 
     /**
      * The model the resource corresponds to.
